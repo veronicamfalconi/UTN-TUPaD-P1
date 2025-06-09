@@ -1,0 +1,1001 @@
+id,titulo,autor,genero,puntuacion
+1,La ladrona de libros,Randy Allen,Dystopía,3.7
+2,Cometas en el cielo,Troy Grant,Clásico,4.0
+3,El alquimista,Amanda Swanson,Histórico,1.5
+4,El Principito,Doris Gibson,Ciencia Ficción,2.1
+5,Juego de tronos,Tracy Clark,Biografía,4.7
+6,Juego de tronos,Lisa Hogan,Clásico,1.3
+7,Drácula,Jeffrey Vasquez,Terror,3.2
+8,American Gods,Gregory York,Fábula,4.4
+9,Don Quijote de la Mancha,Christopher Lopez,Fábula,1.6
+10,Fahrenheit 451,Katrina Barrera,Romance,2.5
+11,Orgullo y prejuicio,Joanna Fisher,Drama,2.2
+12,Anna Karenina,Aaron Wilson,Ciencia Ficción,2.6
+13,Ensayo sobre la ceguera,Adam Hughes,Aventura,4.2
+14,La sombra del viento,Charles Perez,Aventura,1.0
+15,Cometas en el cielo,James Clements,Terror,4.8
+16,A sangre fría,Rebecca Wright,Dystopía,3.9
+17,Madame Bovary,Craig West,Biografía,4.1
+18,La ladrona de libros,Brett Malone,Drama,3.4
+19,Harry Potter y la piedra filosofal,Phillip Smith,Fantasía,4.3
+20,Madame Bovary,Randall Bishop,Dystopía,2.8
+21,La ladrona de libros,Tina Townsend,Thriller,4.7
+22,Madame Bovary,Traci Mills,Experimental,2.7
+23,El perfume,Shelby Rodriguez,Misterio,4.3
+24,Orgullo y prejuicio,Todd Adams,Clásico,1.3
+25,Cometas en el cielo,Crystal Crosby,Misterio,1.9
+26,Frankenstein,Christina Conley,Thriller,1.9
+27,It,Sheila Castillo,Experimental,1.8
+28,Drácula,Tiffany Davis,Experimental,1.3
+29,Fahrenheit 451,Theresa Meyers,Terror,3.8
+30,Madame Bovary,Karen Rogers,Clásico,1.6
+31,La chica del tren,Tracy Bautista,Drama,2.8
+32,El Principito,Kim Miller,Histórico,4.7
+33,It,Ashley Frank DDS,Aventura,2.3
+34,El niño con el pijama de rayas,Melissa Sharp DDS,Histórico,4.8
+35,Cien años de soledad,John Preston,Misterio,1.7
+36,El psicoanalista,Jacob Miller,Realismo Mágico,3.8
+37,Don Quijote de la Mancha,Kayla Sanchez,Experimental,2.7
+38,Frankenstein,Angela Sanchez,Biografía,3.2
+39,El niño con el pijama de rayas,Joshua Miller,Romance,3.8
+40,El Principito,John Ramirez,Clásico,4.2
+41,El psicoanalista,Rachel Larsen,Realismo Mágico,2.7
+42,Cien años de soledad,Tara Dunn,Experimental,1.2
+43,Un mundo feliz,Lisa Decker,Fábula,1.1
+44,Matar a un ruiseñor,Kelly Perez,Thriller,3.3
+45,Harry Potter y la piedra filosofal,Lisa Miller,Clásico,3.8
+46,American Gods,Erik Lewis,Romance,2.3
+47,Orgullo y prejuicio,Grant Gallegos,Misterio,4.0
+48,El psicoanalista,Daniel Lynch,Dystopía,3.3
+49,Don Quijote de la Mancha,Debra Christensen,Ciencia Ficción,4.2
+50,El señor de los anillos,Rhonda Hudson,Fantasía,3.7
+51,Anna Karenina,Mason Novak,Fantasía,3.9
+52,Cometas en el cielo,Hailey Serrano,Misterio,5.0
+53,Harry Potter y la piedra filosofal,Tyrone Dickson,Aventura,1.2
+54,Los juegos del hambre,Amy Peterson MD,Aventura,4.7
+55,Anna Karenina,Thomas Taylor,Aventura,1.8
+56,El amor en los tiempos del cólera,Jenny Nelson,Drama,1.0
+57,El alquimista,Brandon Leblanc,Drama,2.1
+58,Los juegos del hambre,Kaitlin Johnson,Dystopía,1.7
+59,La sombra del viento,Jennifer Sanchez,Fantasía,1.2
+60,American Gods,Linda White,Dystopía,2.2
+61,Las aventuras de Sherlock Holmes,Crystal Larsen,Histórico,2.7
+62,Rayuela,Jennifer Benson,Histórico,3.1
+63,Las crónicas de Narnia,James Deleon,Romance,4.8
+64,Pedro Páramo,Kristine Williams,Clásico,1.7
+65,Don Quijote de la Mancha,Dale Black,Dystopía,1.7
+66,Drácula,Michael Contreras,Terror,1.5
+67,El perfume,Michael Martinez,Experimental,1.4
+68,El psicoanalista,Johnny Nelson,Misterio,3.5
+69,Los juegos del hambre,Shane Huerta,Terror,2.5
+70,La sombra del viento,Donna Davis,Dystopía,1.4
+71,Las aventuras de Sherlock Holmes,Olivia Herman,Terror,4.3
+72,It,Dr. Tiffany Perez,Drama,1.0
+73,1984,Michael Norris,Thriller,1.3
+74,Ulises,Tracy Clark,Realismo Mágico,2.6
+75,La carretera,Marissa White,Romance,4.5
+76,El psicoanalista,Anthony Moore,Ciencia Ficción,1.6
+77,Las crónicas de Narnia,Luke Gray,Fábula,3.1
+78,Crimen y castigo,Christian Brown,Misterio,1.9
+79,Matar a un ruiseñor,Lori Campos,Experimental,3.5
+80,La chica del tren,Alfred Johnson,Histórico,4.0
+81,El perfume,Ryan Mason,Fantasía,3.9
+82,Cometas en el cielo,James Diaz,Misterio,4.7
+83,Los juegos del hambre,Micheal Wilson,Clásico,2.8
+84,Ensayo sobre la ceguera,Michelle Welch,Realismo Mágico,1.8
+85,Ensayo sobre la ceguera,Jessica Little,Realismo Mágico,4.2
+86,El perfume,Andrew Robinson,Misterio,1.4
+87,American Gods,Gina Turner,Realismo Mágico,3.5
+88,El psicoanalista,John Wright,Romance,2.9
+89,El perfume,Shannon Thompson,Aventura,4.4
+90,Cometas en el cielo,Alyssa Lopez,Misterio,4.2
+91,El señor de los anillos,Brooke Watts,Biografía,1.2
+92,Ulises,Misty Jenkins,Aventura,4.4
+93,It,Sara Washington,Romance,4.3
+94,1984,Robert Mendoza,Realismo Mágico,4.8
+95,Madame Bovary,Edward Ellis,Clásico,4.0
+96,La insoportable levedad del ser,Clinton Miles,Realismo Mágico,3.4
+97,Drácula,Alicia Mills,Fantasía,1.1
+98,Anna Karenina,Douglas Campos,Biografía,3.6
+99,Las crónicas de Narnia,Erika Jones,Fábula,2.7
+100,El señor de los anillos,Clinton Dominguez,Fábula,4.1
+101,Matar a un ruiseñor,Andrew Bradshaw,Biografía,3.4
+102,El Principito,Aimee Webster,Romance,4.8
+103,Ulises,Selena Gonzalez,Dystopía,4.2
+104,El señor de los anillos,Tonya Kline,Aventura,3.2
+105,El Principito,Scott Curtis,Experimental,1.4
+106,1984,Heather Smith,Ciencia Ficción,3.2
+107,A sangre fría,Christy Knight,Biografía,2.8
+108,Crimen y castigo,Nicholas Scott,Fábula,3.0
+109,La insoportable levedad del ser,Ashley Byrd,Thriller,1.6
+110,Ensayo sobre la ceguera,Victoria Christensen,Fábula,2.4
+111,El código Da Vinci,Jillian Cook DVM,Fantasía,1.5
+112,Harry Potter y la piedra filosofal,Samantha Alvarez,Realismo Mágico,2.7
+113,Cien años de soledad,Jodi Rasmussen,Clásico,2.2
+114,Orgullo y prejuicio,Terri Payne,Dystopía,4.8
+115,El amor en los tiempos del cólera,Kevin Suarez,Ciencia Ficción,4.2
+116,Frankenstein,Ryan Lopez,Aventura,3.4
+117,Crimen y castigo,Brett Briggs,Aventura,4.2
+118,Fahrenheit 451,Lindsey Harris,Histórico,1.9
+119,El nombre del viento,Barry Buchanan,Histórico,2.1
+120,Matar a un ruiseñor,Crystal Price,Drama,1.6
+121,Don Quijote de la Mancha,James Williams,Biografía,3.4
+122,El perfume,Jack Mccann,Clásico,3.6
+123,Rayuela,Joe York,Romance,4.0
+124,La sombra del viento,Jose Lee,Clásico,2.8
+125,La chica del tren,Bryan Guzman,Histórico,2.8
+126,El amor en los tiempos del cólera,Michael Tucker,Drama,2.7
+127,Un mundo feliz,Michael Mclean,Dystopía,4.3
+128,El niño con el pijama de rayas,Theresa Parker,Romance,2.3
+129,Los pilares de la tierra,Robin Norman,Drama,3.6
+130,A sangre fría,Kim Cunningham,Misterio,1.9
+131,Los pilares de la tierra,Jill Medina DVM,Aventura,4.7
+132,La carretera,Ernest Martinez,Histórico,4.6
+133,Fahrenheit 451,Michelle Barnett,Terror,3.7
+134,Las aventuras de Sherlock Holmes,Christopher Austin,Experimental,1.6
+135,Orgullo y prejuicio,Christopher Smith,Clásico,1.3
+136,El nombre del viento,Jessica Blair,Clásico,4.3
+137,Frankenstein,Mark Vincent,Romance,1.4
+138,La insoportable levedad del ser,Sydney Garcia,Dystopía,3.4
+139,Don Quijote de la Mancha,Joshua Smith DDS,Experimental,2.0
+140,A sangre fría,Kevin Bradley,Biografía,4.1
+141,La ladrona de libros,Connie Davis,Fábula,2.3
+142,Don Quijote de la Mancha,Julie Johnson,Histórico,1.2
+143,Orgullo y prejuicio,Mr. James Orr,Ciencia Ficción,1.1
+144,La chica del tren,Alexander Nguyen,Histórico,2.8
+145,Orgullo y prejuicio,John Cox,Romance,2.0
+146,La insoportable levedad del ser,Cindy Ward,Experimental,1.7
+147,Cometas en el cielo,Kim Flores,Fábula,1.6
+148,Drácula,Cameron Mcdowell,Misterio,4.8
+149,El nombre del viento,Ashley Gibbs,Romance,1.3
+150,Anna Karenina,David Gonzalez,Fantasía,1.5
+151,El niño con el pijama de rayas,Charles Solis,Clásico,3.7
+152,Harry Potter y la piedra filosofal,Christina Martinez,Misterio,1.4
+153,Don Quijote de la Mancha,Carlos Mejia,Biografía,2.5
+154,El perfume,Angela Brown,Terror,3.7
+155,Los juegos del hambre,Erin Herman,Drama,4.8
+156,El nombre del viento,Sarah Wells,Realismo Mágico,5.0
+157,El alquimista,Michelle Lewis,Dystopía,1.9
+158,Pedro Páramo,Mary Duffy,Fantasía,1.6
+159,Madame Bovary,Cindy Hudson,Clásico,3.1
+160,El nombre del viento,Sharon Stark,Ciencia Ficción,4.0
+161,El amor en los tiempos del cólera,Andrew Bond,Thriller,2.4
+162,American Gods,Kimberly Montgomery,Ciencia Ficción,1.7
+163,Los pilares de la tierra,Pamela Miller,Terror,3.8
+164,El amor en los tiempos del cólera,Joshua Duran,Realismo Mágico,3.8
+165,Frankenstein,Stephen Perry,Experimental,2.0
+166,1984,Jacqueline White,Ciencia Ficción,4.6
+167,El niño con el pijama de rayas,David Gonzales,Drama,2.6
+168,El niño con el pijama de rayas,Robert Morgan,Biografía,4.6
+169,El nombre del viento,Cynthia Anderson,Thriller,3.0
+170,La chica del tren,Kathy Smith,Terror,4.7
+171,Un mundo feliz,Todd Conway,Aventura,3.8
+172,Matar a un ruiseñor,Robert Boyd,Ciencia Ficción,4.1
+173,Un mundo feliz,Lori Frye,Experimental,1.9
+174,Un mundo feliz,Carla Rivera,Ciencia Ficción,3.9
+175,El amor en los tiempos del cólera,Victoria Wells,Realismo Mágico,2.6
+176,Don Quijote de la Mancha,Michele Wallace,Experimental,2.1
+177,El señor de los anillos,Brian Baker,Fantasía,1.8
+178,La insoportable levedad del ser,Karen Baird,Realismo Mágico,1.3
+179,Fahrenheit 451,John Cook,Histórico,4.8
+180,El Principito,Melanie Lewis,Terror,2.7
+181,Las aventuras de Sherlock Holmes,Andrew Bond,Misterio,3.4
+182,Un mundo feliz,Robert Deleon,Fábula,3.4
+183,Crimen y castigo,Pamela Macdonald,Drama,3.5
+184,Rayuela,Jessica Wallace,Misterio,4.1
+185,El señor de los anillos,Kathryn Rojas,Terror,2.5
+186,Matar a un ruiseñor,Brian Hunt PhD,Clásico,4.9
+187,El psicoanalista,Jason Velasquez,Romance,3.8
+188,Orgullo y prejuicio,Taylor Thomas,Aventura,4.8
+189,1984,Deborah Long,Experimental,3.4
+190,El Principito,Karen Rodriguez,Histórico,1.7
+191,La insoportable levedad del ser,George Ponce,Misterio,1.6
+192,Anna Karenina,Dan Hess,Drama,2.2
+193,Juego de tronos,Michael Cowan,Romance,4.7
+194,Madame Bovary,Brenda Roberts,Thriller,2.0
+195,La carretera,Linda Crawford,Fábula,1.9
+196,Ensayo sobre la ceguera,Charles Rangel,Fábula,4.9
+197,La chica del tren,Carrie Wong,Clásico,2.5
+198,El nombre del viento,Jimmy Silva,Thriller,2.1
+199,Rayuela,Darryl Camacho,Terror,1.4
+200,Anna Karenina,Marie Lee,Fantasía,1.4
+201,La ladrona de libros,Michael Griffin,Clásico,2.7
+202,It,David Horton,Fábula,1.0
+203,Orgullo y prejuicio,Billy Vaughan,Thriller,1.1
+204,El niño con el pijama de rayas,Travis Hansen,Aventura,3.7
+205,El alquimista,Kevin Gonzales,Ciencia Ficción,2.1
+206,El nombre del viento,John Martinez,Terror,4.4
+207,Matar a un ruiseñor,Dustin Graham,Fantasía,2.2
+208,Ensayo sobre la ceguera,Bobby Woods,Drama,4.4
+209,El psicoanalista,Jonathan Johnson,Biografía,3.3
+210,La chica del tren,Heather Fields,Aventura,1.5
+211,American Gods,Dr. Bridget Beck MD,Realismo Mágico,1.4
+212,La ladrona de libros,Jose Johnson,Realismo Mágico,3.1
+213,Drácula,Paul Coleman,Fábula,2.6
+214,Drácula,Aaron Bentley,Clásico,1.1
+215,Rayuela,Jessica Jones,Histórico,4.0
+216,El señor de los anillos,Emma Watson,Dystopía,1.9
+217,Crimen y castigo,Tiffany Christensen,Terror,2.6
+218,El psicoanalista,Cathy Koch,Romance,3.2
+219,Rayuela,John Brennan,Romance,3.3
+220,La ladrona de libros,Christy Williams,Clásico,3.7
+221,Los pilares de la tierra,Jonathan Phillips,Drama,4.2
+222,Crimen y castigo,Ashley Butler,Drama,1.8
+223,Cometas en el cielo,Kristin Petersen,Thriller,3.6
+224,Las aventuras de Sherlock Holmes,Tiffany Lowery,Misterio,1.8
+225,American Gods,Kevin Holder,Drama,1.3
+226,A sangre fría,Deanna Townsend,Fábula,4.0
+227,El psicoanalista,Kayla Li,Realismo Mágico,3.3
+228,Ulises,Heather Camacho,Aventura,3.2
+229,Pedro Páramo,Kaitlin Love,Histórico,4.0
+230,Ensayo sobre la ceguera,Jenna Thompson,Realismo Mágico,4.4
+231,La carretera,Brianna Norton,Realismo Mágico,2.1
+232,American Gods,Kristen Crawford,Dystopía,2.0
+233,1984,Joseph Maldonado,Biografía,4.1
+234,El alquimista,Cheryl Griffin,Ciencia Ficción,4.3
+235,Madame Bovary,Jerry Cunningham,Romance,2.1
+236,Las aventuras de Sherlock Holmes,Joshua Henderson,Thriller,3.0
+237,Rayuela,Matthew Mason,Thriller,4.0
+238,Madame Bovary,Tanya Shepherd,Fantasía,2.3
+239,El código Da Vinci,Brian Miller,Drama,4.5
+240,La sombra del viento,Alicia Harper,Aventura,1.6
+241,Juego de tronos,Dr. Tonya Perez,Romance,1.2
+242,American Gods,Lori Rodgers,Realismo Mágico,3.5
+243,1984,Jesse Romero,Experimental,2.9
+244,Don Quijote de la Mancha,Miguel Williams,Biografía,4.7
+245,La chica del tren,Michael Gray,Clásico,3.4
+246,A sangre fría,David Rodriguez,Histórico,2.8
+247,Matar a un ruiseñor,Rachel Vasquez,Histórico,1.4
+248,La sombra del viento,Alexander Gillespie,Ciencia Ficción,4.3
+249,La ladrona de libros,Kelly Wilson,Dystopía,1.7
+250,American Gods,Tammy Nelson,Biografía,2.0
+251,Ensayo sobre la ceguera,Francisco Myers,Fantasía,2.4
+252,El señor de los anillos,Robin Pham MD,Dystopía,3.1
+253,El amor en los tiempos del cólera,George Pearson,Dystopía,2.9
+254,Los pilares de la tierra,Jessica Murphy,Biografía,2.7
+255,El código Da Vinci,Walter Hall,Misterio,4.7
+256,Don Quijote de la Mancha,Robin Mclaughlin,Dystopía,4.8
+257,La sombra del viento,Nicole Diaz,Misterio,3.7
+258,Frankenstein,Kelly Harris,Drama,1.2
+259,El código Da Vinci,Linda Olsen,Experimental,3.7
+260,Anna Karenina,Frank Gutierrez,Clásico,2.2
+261,El psicoanalista,Angel Smith,Aventura,1.7
+262,El nombre del viento,Katie Wells,Histórico,4.8
+263,El nombre del viento,Noah Carpenter,Drama,1.7
+264,El código Da Vinci,Laura Lopez,Ciencia Ficción,3.0
+265,American Gods,Joseph Burgess,Fantasía,4.7
+266,La carretera,Erik Romero,Experimental,1.3
+267,El alquimista,Jordan Drake,Fábula,2.5
+268,Cien años de soledad,Madeline Hernandez,Experimental,4.3
+269,Don Quijote de la Mancha,Joseph Smith,Terror,3.8
+270,Matar a un ruiseñor,Timothy Lee,Histórico,1.6
+271,La sombra del viento,Andrew Snyder,Realismo Mágico,4.9
+272,Las crónicas de Narnia,Rebecca Vega,Histórico,5.0
+273,Frankenstein,Vanessa Valdez,Ciencia Ficción,1.2
+274,Pedro Páramo,Amy Miller,Fábula,1.8
+275,Orgullo y prejuicio,James Lowery,Experimental,1.3
+276,El señor de los anillos,Judith Thompson,Misterio,2.6
+277,El alquimista,Carrie Todd,Histórico,2.9
+278,Matar a un ruiseñor,Melissa Wolf,Romance,4.1
+279,Orgullo y prejuicio,Melissa Phillips,Biografía,1.4
+280,El alquimista,Edward Griffin,Ciencia Ficción,3.9
+281,Los pilares de la tierra,Katie Knox,Biografía,2.1
+282,Drácula,Michael Vargas,Ciencia Ficción,1.5
+283,Don Quijote de la Mancha,Joseph Martin,Drama,3.8
+284,Frankenstein,Debbie Cruz,Misterio,2.6
+285,El niño con el pijama de rayas,Jonathan Estrada,Romance,2.5
+286,Las aventuras de Sherlock Holmes,Tyler Wright,Experimental,2.0
+287,El nombre del viento,Charles Buchanan,Romance,1.2
+288,Los pilares de la tierra,Jennifer Braun,Aventura,4.9
+289,El niño con el pijama de rayas,Theresa Villarreal,Romance,1.5
+290,Harry Potter y la piedra filosofal,Stephanie Newton,Misterio,2.9
+291,El perfume,Tonya Barr,Romance,4.0
+292,Matar a un ruiseñor,Kristine Garcia,Ciencia Ficción,2.8
+293,El psicoanalista,Andrew Johnson,Dystopía,2.1
+294,El nombre del viento,Sarah Ray,Drama,4.0
+295,La chica del tren,Joshua Gutierrez,Realismo Mágico,4.7
+296,El amor en los tiempos del cólera,Eric Jordan,Experimental,1.9
+297,El señor de los anillos,Ronald Valenzuela,Drama,1.7
+298,Pedro Páramo,Lacey Cooper,Experimental,2.4
+299,La insoportable levedad del ser,Lawrence Ramirez,Romance,3.6
+300,Las crónicas de Narnia,Renee Miller,Fábula,1.1
+301,American Gods,Tara Benton,Dystopía,1.8
+302,1984,Sharon Parker,Fábula,4.0
+303,El nombre del viento,Alexander Holland,Thriller,4.8
+304,American Gods,Mary Houston,Fantasía,4.9
+305,La insoportable levedad del ser,Jennifer Shaw,Fantasía,4.8
+306,Las crónicas de Narnia,Russell Thompson,Ciencia Ficción,3.0
+307,La chica del tren,Kayla Mendez,Fábula,4.9
+308,Las aventuras de Sherlock Holmes,Jason Nguyen,Fantasía,2.3
+309,Juego de tronos,Ronald Rogers,Misterio,1.9
+310,El amor en los tiempos del cólera,Kevin James MD,Thriller,3.9
+311,Los pilares de la tierra,Robert Ramirez,Ciencia Ficción,3.8
+312,Madame Bovary,Sabrina Martin,Clásico,3.7
+313,Matar a un ruiseñor,Jeanne Duke,Biografía,4.0
+314,Madame Bovary,Joel Salazar,Misterio,2.7
+315,American Gods,Victor Espinoza,Terror,3.1
+316,El niño con el pijama de rayas,Mary James DVM,Clásico,3.3
+317,Drácula,Miranda Cox,Fábula,1.9
+318,El nombre del viento,Tammy Martin,Aventura,3.1
+319,El niño con el pijama de rayas,Christina Blankenship,Terror,3.8
+320,A sangre fría,Samuel Taylor,Aventura,2.4
+321,La sombra del viento,Taylor Franklin,Misterio,1.9
+322,Orgullo y prejuicio,Donald Sandoval,Drama,4.2
+323,Matar a un ruiseñor,Tamara Crane,Realismo Mágico,3.8
+324,La carretera,Brian Collins,Romance,1.6
+325,Drácula,Carmen Douglas,Dystopía,3.0
+326,A sangre fría,Daniel Parker,Ciencia Ficción,3.9
+327,Madame Bovary,Kimberly Norris MD,Ciencia Ficción,3.9
+328,La sombra del viento,Raymond Chapman,Aventura,1.5
+329,La sombra del viento,Jeffrey Martinez,Romance,4.0
+330,El psicoanalista,Michael Nelson,Misterio,1.3
+331,El alquimista,Brandon Davis,Terror,2.1
+332,La chica del tren,Jennifer Burgess,Experimental,4.3
+333,El señor de los anillos,Mr. Cody Evans PhD,Terror,4.4
+334,La carretera,Ryan Larson,Romance,4.7
+335,Orgullo y prejuicio,Melanie Baldwin,Realismo Mágico,1.2
+336,Frankenstein,Albert Bartlett,Terror,3.5
+337,El perfume,Bruce Manning,Biografía,4.2
+338,El código Da Vinci,Patrick Graham,Dystopía,1.3
+339,Rayuela,John Perez,Realismo Mágico,1.0
+340,Cien años de soledad,Juan Stevens,Romance,2.2
+341,Pedro Páramo,Shannon Cobb,Misterio,1.4
+342,Un mundo feliz,Patrick Oconnell,Romance,3.1
+343,Harry Potter y la piedra filosofal,Ronald Caldwell,Fábula,2.2
+344,El niño con el pijama de rayas,Erika Gutierrez,Thriller,3.3
+345,El perfume,Melinda James,Thriller,4.6
+346,Fahrenheit 451,Brianna Lopez,Fantasía,4.0
+347,Cometas en el cielo,Debra Wade,Experimental,2.1
+348,El psicoanalista,Judy Waters,Dystopía,2.8
+349,La sombra del viento,Isaac Hoover,Realismo Mágico,2.8
+350,Madame Bovary,Kelly Levine,Romance,3.0
+351,Cometas en el cielo,Amber Huerta,Aventura,2.1
+352,Matar a un ruiseñor,Erica Sheppard,Thriller,3.2
+353,Las crónicas de Narnia,Natalie Carter,Drama,3.2
+354,La ladrona de libros,Brianna Reese,Aventura,1.8
+355,Las crónicas de Narnia,Michael Gonzalez,Ciencia Ficción,2.7
+356,American Gods,Drew Meyer,Histórico,4.8
+357,Fahrenheit 451,Ashley Wang,Experimental,1.1
+358,La sombra del viento,Kimberly Cook,Thriller,2.5
+359,Ensayo sobre la ceguera,Phillip Carter Jr.,Experimental,4.2
+360,American Gods,Brenda Gonzales,Terror,1.8
+361,Madame Bovary,Patrick Baker,Clásico,2.5
+362,La insoportable levedad del ser,Kyle Robinson,Drama,1.2
+363,Frankenstein,Jacob Kennedy,Realismo Mágico,2.9
+364,1984,Eric Boyer,Thriller,2.3
+365,Las crónicas de Narnia,Corey Olson,Histórico,1.3
+366,Juego de tronos,Kevin Miles,Romance,3.5
+367,American Gods,Jennifer Mata,Clásico,4.2
+368,Las aventuras de Sherlock Holmes,Karen Marsh,Histórico,1.7
+369,A sangre fría,Darlene Ramirez,Dystopía,1.9
+370,Orgullo y prejuicio,Alexis Johnson,Romance,2.9
+371,Pedro Páramo,Timothy Williams,Ciencia Ficción,3.3
+372,Rayuela,Jean Mcbride,Experimental,3.4
+373,It,Mary Brown,Realismo Mágico,3.8
+374,Orgullo y prejuicio,David Morales,Clásico,1.5
+375,El código Da Vinci,Ryan Sparks,Fantasía,2.5
+376,Juego de tronos,Daniel Reed,Thriller,2.4
+377,La chica del tren,Heather Russo,Experimental,4.2
+378,Las crónicas de Narnia,Whitney Tucker,Terror,4.3
+379,La chica del tren,Calvin Perez,Histórico,4.9
+380,Juego de tronos,Christy Montoya,Fantasía,2.7
+381,Madame Bovary,Kevin Shepherd,Realismo Mágico,4.2
+382,Ensayo sobre la ceguera,Robert Knight,Romance,2.6
+383,Los pilares de la tierra,Mark Harris,Experimental,4.2
+384,El niño con el pijama de rayas,Valerie Kent,Clásico,2.7
+385,La insoportable levedad del ser,David Young,Thriller,4.4
+386,El amor en los tiempos del cólera,Barry Reed,Thriller,2.1
+387,Las crónicas de Narnia,Joan Smith,Realismo Mágico,2.5
+388,Un mundo feliz,Teresa Neal,Experimental,3.2
+389,Frankenstein,Henry Kennedy,Dystopía,3.2
+390,El perfume,Daniel Reyes,Drama,4.4
+391,El amor en los tiempos del cólera,Natalie Hernandez,Romance,4.6
+392,Ensayo sobre la ceguera,Michael Tucker,Biografía,2.3
+393,El psicoanalista,Elaine Huber,Biografía,4.0
+394,Rayuela,Lisa Rios,Fábula,2.6
+395,Las aventuras de Sherlock Holmes,Ryan Calderon,Biografía,3.4
+396,La ladrona de libros,James Beasley DDS,Misterio,3.4
+397,Anna Karenina,Karen Grant,Ciencia Ficción,3.0
+398,El amor en los tiempos del cólera,Nicole Clark DDS,Thriller,3.8
+399,El nombre del viento,Ms. Tamara Proctor,Ciencia Ficción,2.2
+400,El alquimista,Tamara Wallace,Drama,2.2
+401,Don Quijote de la Mancha,Brad Ford,Fábula,2.2
+402,Drácula,Natalie Perez,Biografía,3.9
+403,Madame Bovary,Michael Sellers,Aventura,3.1
+404,La chica del tren,Matthew Lee,Fábula,3.6
+405,1984,Nichole Morris,Thriller,4.0
+406,Un mundo feliz,Kelly Joseph,Realismo Mágico,4.7
+407,Ulises,Jacob Cunningham,Histórico,1.8
+408,La carretera,Marc Simmons,Terror,2.5
+409,El alquimista,Shawn Nelson,Ciencia Ficción,3.0
+410,Matar a un ruiseñor,Thomas Leblanc,Fantasía,2.1
+411,El alquimista,Joshua Rangel,Fantasía,2.2
+412,La chica del tren,Scott Jones,Ciencia Ficción,4.9
+413,La sombra del viento,Paul Scott,Fantasía,2.6
+414,Don Quijote de la Mancha,Edward Miller Jr.,Clásico,2.9
+415,El perfume,Ian Mays,Biografía,1.9
+416,Anna Karenina,Katherine Garcia,Terror,3.2
+417,Las crónicas de Narnia,Brittany Young,Romance,3.1
+418,1984,Amanda Richmond,Romance,2.6
+419,Las aventuras de Sherlock Holmes,Betty Colon,Thriller,2.4
+420,El perfume,Cheryl Davis,Fantasía,2.7
+421,A sangre fría,Joshua Green,Histórico,2.5
+422,Frankenstein,Amanda Savage,Terror,3.4
+423,Orgullo y prejuicio,Steven Morales,Terror,3.3
+424,Los juegos del hambre,Timothy Ballard,Experimental,3.8
+425,1984,Dr. Pamela Zimmerman DDS,Clásico,1.9
+426,El niño con el pijama de rayas,Dylan Day,Misterio,1.3
+427,Don Quijote de la Mancha,Beth Chavez,Fantasía,2.8
+428,Las crónicas de Narnia,Jeremy White,Aventura,4.7
+429,American Gods,Matthew Bradford,Histórico,3.3
+430,1984,Brittney Bryant,Romance,3.7
+431,Don Quijote de la Mancha,Matthew Harris,Aventura,2.5
+432,Los pilares de la tierra,Elizabeth Gomez,Experimental,2.8
+433,Juego de tronos,Laurie Myers,Aventura,4.2
+434,Las crónicas de Narnia,Matthew Shepherd,Drama,4.7
+435,La chica del tren,Lisa Williams MD,Realismo Mágico,1.4
+436,Fahrenheit 451,Derrick Freeman,Biografía,1.3
+437,La sombra del viento,Brandon Mitchell,Biografía,3.8
+438,Los pilares de la tierra,Sarah Gutierrez,Terror,3.4
+439,Los juegos del hambre,Michael Caldwell,Fábula,3.6
+440,La ladrona de libros,Tonya Nelson,Biografía,3.2
+441,El código Da Vinci,Jacob Gross,Romance,3.9
+442,El nombre del viento,Hannah Williams,Drama,4.0
+443,Los pilares de la tierra,Charles Conley,Biografía,3.1
+444,Matar a un ruiseñor,Ann Davidson,Fábula,4.3
+445,Los pilares de la tierra,Ricky Deleon,Biografía,4.0
+446,Las aventuras de Sherlock Holmes,Teresa Vasquez,Fábula,2.7
+447,American Gods,Kelly Johnson,Thriller,2.6
+448,Juego de tronos,Cynthia Dillon,Romance,4.7
+449,La carretera,Michelle Moody,Fantasía,2.2
+450,Don Quijote de la Mancha,Joel Mclaughlin,Aventura,2.7
+451,Pedro Páramo,Teresa Rodriguez,Experimental,1.9
+452,La sombra del viento,Christine Johnson,Thriller,4.2
+453,Los pilares de la tierra,Alicia Phillips,Dystopía,2.3
+454,El código Da Vinci,Andrew Wright,Biografía,4.1
+455,La insoportable levedad del ser,John Gregory,Aventura,1.9
+456,El código Da Vinci,Sandra Sanders,Thriller,3.6
+457,It,Zachary Robinson,Terror,4.7
+458,Fahrenheit 451,Anne Pope,Histórico,2.4
+459,El niño con el pijama de rayas,Lindsey Jones,Misterio,2.2
+460,Matar a un ruiseñor,Kristy Reid,Misterio,5.0
+461,Juego de tronos,Abigail Peterson,Ciencia Ficción,3.8
+462,It,Richard Ramirez,Realismo Mágico,1.7
+463,Las crónicas de Narnia,Alyssa Chung,Aventura,2.3
+464,Cometas en el cielo,Chelsey Stanley,Fantasía,4.1
+465,Las aventuras de Sherlock Holmes,Paul Wood MD,Thriller,1.0
+466,Las crónicas de Narnia,Edward Hart,Experimental,3.7
+467,Las crónicas de Narnia,Terry Giles,Histórico,5.0
+468,La carretera,Eric Singh,Experimental,3.5
+469,El señor de los anillos,Daniel Conrad,Drama,2.2
+470,El niño con el pijama de rayas,Robin Johnson,Aventura,1.8
+471,Los pilares de la tierra,Michael Smith,Fantasía,1.7
+472,1984,Jillian Phelps,Terror,1.4
+473,El psicoanalista,Jacqueline Jordan,Histórico,3.8
+474,Madame Bovary,James Gibson,Misterio,3.7
+475,Harry Potter y la piedra filosofal,Jacqueline Juarez,Misterio,2.2
+476,1984,Kristi Collier,Fantasía,4.4
+477,Anna Karenina,Jeremy Hopkins,Experimental,2.0
+478,Frankenstein,Jeremy Morton,Dystopía,4.3
+479,Anna Karenina,Leslie Brown II,Experimental,2.4
+480,El Principito,Susan Ellis,Thriller,1.3
+481,Frankenstein,Keith Mcdaniel,Biografía,2.3
+482,Ensayo sobre la ceguera,Curtis Smith,Realismo Mágico,1.9
+483,Orgullo y prejuicio,Matthew Pitts,Experimental,3.5
+484,Ulises,Charles Rose,Experimental,2.9
+485,El Principito,Daniel Craig,Experimental,2.1
+486,El perfume,Jose Rose,Biografía,3.9
+487,Ulises,Don Stewart,Terror,4.9
+488,A sangre fría,Jason Turner,Fábula,3.1
+489,El psicoanalista,Michael Zhang,Biografía,4.2
+490,Matar a un ruiseñor,Vickie Johnson,Aventura,1.2
+491,Los juegos del hambre,Donna Chen,Dystopía,4.4
+492,El perfume,Zoe Banks,Fantasía,5.0
+493,Madame Bovary,Andrew Brown,Histórico,4.4
+494,Drácula,Matthew Nelson,Thriller,3.8
+495,Cometas en el cielo,Adam Sullivan,Thriller,4.8
+496,La ladrona de libros,Suzanne Neal,Thriller,1.1
+497,Fahrenheit 451,Jamie Gregory,Realismo Mágico,2.0
+498,Juego de tronos,Jessica Knox,Experimental,3.7
+499,Harry Potter y la piedra filosofal,Joseph Chavez,Drama,1.7
+500,La insoportable levedad del ser,William Lewis,Fantasía,1.5
+501,Ensayo sobre la ceguera,Brandon James,Drama,2.9
+502,Cien años de soledad,Cindy Howell,Drama,1.4
+503,La carretera,Ryan Flores,Dystopía,3.7
+504,Drácula,Justin Leblanc,Biografía,1.1
+505,Crimen y castigo,Christopher Mills,Drama,2.5
+506,American Gods,Carla Mercado,Histórico,3.0
+507,Cien años de soledad,William Long,Biografía,4.6
+508,A sangre fría,Angelica Spencer,Thriller,1.9
+509,La sombra del viento,Alexandra Koch,Thriller,1.9
+510,El alquimista,Kristi Sellers,Realismo Mágico,5.0
+511,Los pilares de la tierra,Sarah Ferguson,Realismo Mágico,1.1
+512,Crimen y castigo,Diane Williams,Romance,1.0
+513,1984,Cynthia Avery,Dystopía,4.4
+514,El niño con el pijama de rayas,Erin Martinez,Realismo Mágico,1.1
+515,It,Sarah Craig,Aventura,3.8
+516,A sangre fría,Gary Hawkins,Biografía,3.8
+517,El niño con el pijama de rayas,Tonya Mccann,Histórico,4.3
+518,A sangre fría,David Garcia,Ciencia Ficción,2.4
+519,Orgullo y prejuicio,Steven Baker,Experimental,1.3
+520,Madame Bovary,Kenneth Brewer,Experimental,3.9
+521,La carretera,Zachary Gilbert,Thriller,4.4
+522,El código Da Vinci,Dustin Clark,Fábula,3.3
+523,La insoportable levedad del ser,Brenda Case,Drama,3.9
+524,La carretera,Sara Lopez,Aventura,3.8
+525,El niño con el pijama de rayas,Cathy Giles,Misterio,1.7
+526,El niño con el pijama de rayas,Raymond Hernandez,Misterio,2.1
+527,La carretera,Amy Smith,Ciencia Ficción,2.9
+528,Don Quijote de la Mancha,Brian Galvan,Romance,1.2
+529,El señor de los anillos,Heather Sharp,Terror,1.3
+530,Juego de tronos,Brenda Hill,Terror,2.6
+531,Los pilares de la tierra,Theodore Everett,Experimental,4.4
+532,Orgullo y prejuicio,Catherine Warner,Biografía,3.8
+533,Madame Bovary,Robert Lewis,Terror,1.2
+534,La chica del tren,Anthony Thomas,Biografía,1.3
+535,Crimen y castigo,Amanda Rodgers,Fábula,1.8
+536,Juego de tronos,Cynthia Jones MD,Fantasía,4.4
+537,La insoportable levedad del ser,Kathleen Oconnell,Dystopía,3.6
+538,El psicoanalista,Jay Day,Thriller,2.0
+539,El alquimista,Stephen Lynch,Thriller,2.5
+540,El Principito,Sarah Rivera,Fantasía,4.6
+541,Juego de tronos,Samantha Griffin,Terror,4.4
+542,La chica del tren,Pamela Silva,Realismo Mágico,3.4
+543,El código Da Vinci,Linda Brandt,Experimental,4.0
+544,Rayuela,Amber Weeks,Fábula,4.7
+545,Juego de tronos,Beth Cochran,Biografía,1.7
+546,Un mundo feliz,Jonathan Herring,Thriller,2.9
+547,Los pilares de la tierra,Patrick Brown,Histórico,2.5
+548,Matar a un ruiseñor,Stuart Oconnor,Terror,4.4
+549,El señor de los anillos,Victoria Williams,Terror,1.3
+550,Don Quijote de la Mancha,Kendra Brown,Fantasía,2.7
+551,Frankenstein,Kelsey Allen,Fábula,1.1
+552,Pedro Páramo,Tony Warner,Fantasía,2.0
+553,Fahrenheit 451,James Durham,Histórico,1.3
+554,El señor de los anillos,Daniel Evans,Fábula,2.3
+555,El nombre del viento,Kelsey Bryan,Clásico,2.5
+556,Anna Karenina,Brett Lopez,Realismo Mágico,4.2
+557,La carretera,Teresa Gonzales,Romance,1.5
+558,El Principito,Michele Williams,Drama,1.9
+559,Anna Karenina,Alan Simpson,Dystopía,4.7
+560,Harry Potter y la piedra filosofal,Barbara Miller,Dystopía,1.3
+561,Matar a un ruiseñor,Terri White,Realismo Mágico,3.0
+562,Pedro Páramo,Russell Molina,Clásico,4.1
+563,Cometas en el cielo,Heather Hernandez,Fábula,3.6
+564,Orgullo y prejuicio,Dawn Thompson,Dystopía,2.4
+565,1984,Timothy Rivera,Realismo Mágico,2.5
+566,Las aventuras de Sherlock Holmes,Darren Miller,Ciencia Ficción,2.1
+567,El alquimista,Joe Ballard,Biografía,4.6
+568,It,Cynthia Lopez,Biografía,3.5
+569,El amor en los tiempos del cólera,Amber Allen,Misterio,2.7
+570,La carretera,Kimberly Henson,Aventura,3.4
+571,El alquimista,Amanda Webster,Thriller,3.2
+572,La insoportable levedad del ser,Linda Cox,Histórico,4.1
+573,Cien años de soledad,Steven Alvarez,Dystopía,2.5
+574,Rayuela,Christopher Rodriguez,Realismo Mágico,1.3
+575,1984,Tiffany Willis,Aventura,2.7
+576,Los juegos del hambre,Crystal Morse,Realismo Mágico,2.0
+577,El nombre del viento,David Schwartz,Clásico,3.4
+578,A sangre fría,Samuel Hall,Dystopía,4.0
+579,Cometas en el cielo,Tom Wilson,Ciencia Ficción,1.7
+580,El Principito,Brenda Schwartz,Ciencia Ficción,1.4
+581,La ladrona de libros,Mark Barber,Terror,1.3
+582,Anna Karenina,Stacy Roberts,Fábula,2.4
+583,El psicoanalista,Alexa Watson,Fábula,1.8
+584,Crimen y castigo,Thomas Michael,Thriller,2.4
+585,1984,Joy Jones,Fantasía,4.8
+586,Cien años de soledad,Veronica Perry,Clásico,1.6
+587,La sombra del viento,Ryan Snyder,Drama,1.4
+588,Rayuela,Colleen Curtis,Romance,2.2
+589,Fahrenheit 451,Sarah Walsh,Realismo Mágico,3.8
+590,It,Jeffrey Vargas,Experimental,2.3
+591,El código Da Vinci,John Smith MD,Dystopía,3.6
+592,Los juegos del hambre,Albert Porter,Fábula,3.0
+593,Anna Karenina,Scott Matthews,Dystopía,2.9
+594,Juego de tronos,Alan Jones,Drama,4.8
+595,Fahrenheit 451,Rebekah Mcintyre,Fábula,1.9
+596,El señor de los anillos,Deborah Roberts,Clásico,1.4
+597,1984,Brett Hunt,Histórico,3.9
+598,La ladrona de libros,Charles Henderson,Fábula,2.0
+599,La insoportable levedad del ser,Rachel Kelly,Fantasía,2.6
+600,El niño con el pijama de rayas,Lisa Martinez DVM,Realismo Mágico,3.3
+601,La chica del tren,Brian Peterson,Aventura,1.2
+602,Matar a un ruiseñor,Christopher Martinez,Clásico,4.3
+603,Frankenstein,Brianna Porter,Aventura,2.4
+604,El alquimista,Casey Curtis,Thriller,3.0
+605,Ulises,Kimberly Brooks,Thriller,3.8
+606,La chica del tren,Stephanie Patton,Drama,3.2
+607,Un mundo feliz,Linda Thomas,Ciencia Ficción,3.9
+608,Cien años de soledad,Hannah Smith,Thriller,4.8
+609,American Gods,Nicholas Wolfe,Fábula,3.1
+610,Fahrenheit 451,Victoria Franklin,Dystopía,4.4
+611,A sangre fría,Melissa Cole,Aventura,3.5
+612,El nombre del viento,Kim Medina,Ciencia Ficción,4.7
+613,Un mundo feliz,Danielle Hammond,Romance,3.6
+614,El Principito,Anthony Davis,Histórico,2.4
+615,Madame Bovary,Barbara Mckee,Realismo Mágico,2.5
+616,1984,Kayla Powers,Terror,3.5
+617,Fahrenheit 451,Nicholas Mccall,Ciencia Ficción,1.1
+618,Harry Potter y la piedra filosofal,Hannah Smith,Thriller,1.3
+619,Ulises,Kristina Garcia,Fábula,4.9
+620,Las crónicas de Narnia,Brian Miller,Drama,2.4
+621,Ensayo sobre la ceguera,Lucas Baker,Misterio,2.0
+622,La carretera,Christopher Ramsey,Ciencia Ficción,1.9
+623,Las crónicas de Narnia,Shannon James,Drama,1.3
+624,Matar a un ruiseñor,Roger Torres,Drama,2.5
+625,El amor en los tiempos del cólera,Wendy Hamilton,Ciencia Ficción,2.5
+626,El psicoanalista,Jose Turner,Realismo Mágico,1.6
+627,Matar a un ruiseñor,Michael Chan,Aventura,3.7
+628,Los pilares de la tierra,Anna Smith,Thriller,3.6
+629,El Principito,Courtney Francis,Clásico,4.1
+630,American Gods,Victoria Rodriguez,Realismo Mágico,3.9
+631,Los pilares de la tierra,Deborah Brown,Fantasía,2.1
+632,El nombre del viento,Elizabeth Porter,Romance,4.5
+633,Las aventuras de Sherlock Holmes,Jane Morrison,Ciencia Ficción,4.0
+634,Don Quijote de la Mancha,Michelle Barker,Fábula,2.2
+635,El nombre del viento,Steven Reed,Histórico,4.6
+636,El señor de los anillos,Michael Li,Terror,4.3
+637,Pedro Páramo,Michael Cruz,Histórico,4.8
+638,El nombre del viento,Tyler Martin,Ciencia Ficción,1.9
+639,La ladrona de libros,Timothy Jones,Dystopía,1.0
+640,Harry Potter y la piedra filosofal,Rodney Sweeney,Fábula,2.9
+641,Un mundo feliz,Sydney Schaefer,Terror,3.7
+642,Ensayo sobre la ceguera,Caitlin Ellis,Thriller,4.9
+643,La carretera,Jennifer Clark,Terror,2.3
+644,Don Quijote de la Mancha,Amanda Brown,Experimental,3.2
+645,El código Da Vinci,Sean Smith,Drama,2.1
+646,El señor de los anillos,Michelle Blankenship,Fantasía,4.7
+647,Pedro Páramo,Casey Haynes,Clásico,4.4
+648,Juego de tronos,Sandra Gutierrez,Fantasía,3.1
+649,El perfume,Jennifer Green,Drama,4.9
+650,Drácula,Jason Ortiz,Romance,4.0
+651,Orgullo y prejuicio,Nicole Jimenez,Aventura,2.4
+652,El amor en los tiempos del cólera,Robert Vasquez,Romance,4.2
+653,Los juegos del hambre,Michael Anderson,Dystopía,2.6
+654,Ensayo sobre la ceguera,Scott Smith,Clásico,2.2
+655,Don Quijote de la Mancha,Donald White,Misterio,4.3
+656,El código Da Vinci,Katie Hughes,Experimental,4.2
+657,Los juegos del hambre,Ryan Brown,Misterio,1.1
+658,El Principito,Jaime Taylor,Ciencia Ficción,2.0
+659,Anna Karenina,Jonathan Jackson,Ciencia Ficción,1.3
+660,Juego de tronos,Craig Evans,Aventura,4.3
+661,Crimen y castigo,Wanda Jones,Fantasía,2.2
+662,Las crónicas de Narnia,Riley Turner,Realismo Mágico,3.1
+663,La insoportable levedad del ser,Ronald Webb,Histórico,4.8
+664,Los juegos del hambre,Jennifer Torres,Fábula,1.8
+665,Los pilares de la tierra,Lindsay Wilkins,Dystopía,2.9
+666,Pedro Páramo,George Boyer,Misterio,4.5
+667,El amor en los tiempos del cólera,Jennifer Olson,Fábula,1.6
+668,El nombre del viento,Veronica Madden,Experimental,1.6
+669,Drácula,Kathryn Baker,Dystopía,2.5
+670,Rayuela,Jonathan Manning,Terror,3.4
+671,Pedro Páramo,Jonathan Howard,Experimental,4.2
+672,Madame Bovary,Roy Reynolds,Fábula,3.7
+673,Anna Karenina,Joshua Bell,Ciencia Ficción,4.3
+674,Frankenstein,Linda Long,Aventura,1.3
+675,El Principito,Melissa Jones,Histórico,2.4
+676,La ladrona de libros,Jennifer Grimes,Drama,2.4
+677,La insoportable levedad del ser,Matthew Smith,Dystopía,3.6
+678,Fahrenheit 451,Meghan Robinson,Ciencia Ficción,4.3
+679,Anna Karenina,Terry Jones,Terror,3.2
+680,Harry Potter y la piedra filosofal,Donna Barnes,Experimental,2.9
+681,La chica del tren,David Medina,Misterio,1.7
+682,Orgullo y prejuicio,Andrea Brown,Drama,3.2
+683,El niño con el pijama de rayas,Troy Adams,Realismo Mágico,4.3
+684,El señor de los anillos,Karen Davis,Terror,4.4
+685,La sombra del viento,Andrew Wong III,Terror,4.9
+686,El niño con el pijama de rayas,Lindsay Holloway,Aventura,3.7
+687,El alquimista,Corey Taylor,Terror,1.3
+688,Las crónicas de Narnia,Kimberly Morales,Fantasía,2.7
+689,Cometas en el cielo,Yolanda Hughes,Biografía,4.7
+690,Cien años de soledad,Steven Perez,Dystopía,4.7
+691,Un mundo feliz,Bradley Anderson,Histórico,2.1
+692,Cien años de soledad,Jaime May,Clásico,2.8
+693,Don Quijote de la Mancha,Diane Brown,Dystopía,3.6
+694,Los juegos del hambre,Melissa Hawkins,Thriller,3.7
+695,Orgullo y prejuicio,John Perry,Aventura,1.4
+696,Un mundo feliz,Michaela Jimenez,Histórico,3.6
+697,El nombre del viento,Kimberly Walker,Romance,1.9
+698,El código Da Vinci,Jerry Park,Aventura,4.0
+699,Las aventuras de Sherlock Holmes,Michael Short,Fantasía,2.0
+700,Drácula,Dr. Amy Wood,Aventura,2.3
+701,Crimen y castigo,Ronnie Burns,Dystopía,1.3
+702,Pedro Páramo,Lisa Day,Romance,2.1
+703,Frankenstein,Melissa Salinas,Biografía,4.5
+704,El amor en los tiempos del cólera,Christian Mercer,Histórico,2.5
+705,La chica del tren,Paul Villanueva,Experimental,2.9
+706,Los juegos del hambre,Marc Harris,Dystopía,4.1
+707,La carretera,Daniel Williams,Romance,4.8
+708,El nombre del viento,Benjamin Martin,Experimental,1.6
+709,El Principito,Jacqueline Brooks,Ciencia Ficción,1.8
+710,Don Quijote de la Mancha,Angela Roman,Realismo Mágico,1.0
+711,Don Quijote de la Mancha,Joshua Campbell,Biografía,1.9
+712,Un mundo feliz,Aaron Taylor,Clásico,3.4
+713,La chica del tren,Jack Griffith,Ciencia Ficción,3.5
+714,Cometas en el cielo,David Patterson,Dystopía,4.0
+715,Harry Potter y la piedra filosofal,Keith Diaz,Ciencia Ficción,2.0
+716,El código Da Vinci,Jillian Palmer,Fantasía,3.4
+717,El código Da Vinci,Kristy Griffin,Romance,4.4
+718,American Gods,Mark Barajas,Aventura,4.7
+719,Pedro Páramo,Julia Jimenez,Experimental,3.8
+720,Un mundo feliz,Dr. Melissa King,Terror,3.0
+721,Drácula,Zachary Vega,Fábula,2.2
+722,El amor en los tiempos del cólera,Denise Hartman,Drama,2.0
+723,Frankenstein,Terri Fields,Thriller,2.9
+724,La ladrona de libros,Nathan Blackwell,Realismo Mágico,4.3
+725,Las crónicas de Narnia,Randy Torres,Romance,1.2
+726,El niño con el pijama de rayas,Robert Obrien,Experimental,2.0
+727,Rayuela,Luke Rodriguez,Thriller,2.2
+728,Un mundo feliz,Andrew Anderson,Aventura,1.1
+729,La insoportable levedad del ser,Teresa Anderson,Histórico,1.9
+730,La sombra del viento,Sheena Cline,Experimental,4.1
+731,El niño con el pijama de rayas,Dr. Danielle Sandoval,Ciencia Ficción,4.4
+732,La insoportable levedad del ser,Christina Gomez,Histórico,4.3
+733,El Principito,Adrian Russo,Histórico,1.8
+734,It,Maurice Jennings,Misterio,1.8
+735,La chica del tren,Ryan Perez,Dystopía,1.6
+736,Fahrenheit 451,Charles Reyes,Drama,1.4
+737,La chica del tren,Joseph Mcclain,Realismo Mágico,2.9
+738,Ulises,William Kelly,Biografía,4.7
+739,Harry Potter y la piedra filosofal,Eric Garrison,Clásico,4.7
+740,La sombra del viento,Crystal Phillips,Experimental,1.5
+741,Ulises,Sarah Mills,Histórico,3.3
+742,La ladrona de libros,Jeffrey Small,Dystopía,2.6
+743,Juego de tronos,Samantha Hart,Experimental,3.0
+744,Drácula,Jessica Haynes,Misterio,2.3
+745,Rayuela,Dr. Jackie Hernandez,Terror,3.7
+746,American Gods,Barbara Bradley,Terror,3.0
+747,El psicoanalista,Yolanda Morrison,Clásico,3.7
+748,Cometas en el cielo,Elizabeth Fernandez,Fábula,4.5
+749,El psicoanalista,Carlos Sweeney,Biografía,4.9
+750,El niño con el pijama de rayas,Ashley Rodriguez,Fábula,5.0
+751,Madame Bovary,Jeffrey Dawson,Thriller,3.1
+752,El señor de los anillos,Debra Haley,Biografía,1.0
+753,Un mundo feliz,Curtis Vega,Fábula,4.9
+754,El código Da Vinci,Hannah Owens,Thriller,4.4
+755,El nombre del viento,Miranda Allen,Aventura,2.5
+756,Matar a un ruiseñor,Emily Sanders,Ciencia Ficción,2.6
+757,Cometas en el cielo,Scott Lloyd,Fantasía,1.9
+758,El Principito,Sandy Peterson,Misterio,1.8
+759,Pedro Páramo,Sarah Buck,Clásico,4.6
+760,El amor en los tiempos del cólera,Jose Jones,Biografía,2.0
+761,El señor de los anillos,Jose Ruiz,Drama,1.5
+762,It,Michael Ellis,Experimental,1.9
+763,La sombra del viento,Thomas Edwards Jr.,Aventura,1.8
+764,El Principito,Gina Palmer,Romance,3.2
+765,It,Dustin Miller,Ciencia Ficción,3.1
+766,La carretera,Sarah Good,Experimental,4.2
+767,1984,Steven Roberts,Aventura,2.4
+768,Don Quijote de la Mancha,James Hernandez,Romance,4.4
+769,La sombra del viento,Dr. Amber Bailey,Aventura,4.3
+770,Juego de tronos,Bethany Shelton,Fábula,4.2
+771,Los juegos del hambre,Aaron Allen,Clásico,1.8
+772,Los juegos del hambre,Kevin Scott,Fantasía,3.3
+773,Las crónicas de Narnia,Joe Porter,Experimental,3.1
+774,El amor en los tiempos del cólera,Andre Chambers,Drama,4.0
+775,La chica del tren,Ms. Samantha Thomas,Biografía,3.7
+776,Madame Bovary,Angela Greene,Thriller,4.4
+777,Rayuela,Richard Johnson,Ciencia Ficción,1.7
+778,Madame Bovary,Alan Elliott,Fantasía,3.4
+779,Las aventuras de Sherlock Holmes,Rebekah Garcia,Drama,4.1
+780,Cometas en el cielo,Cynthia Todd,Experimental,1.1
+781,Drácula,Erik Thompson,Ciencia Ficción,3.2
+782,Los pilares de la tierra,Cristian Soto,Fábula,2.3
+783,El alquimista,Timothy Taylor II,Drama,4.1
+784,Las aventuras de Sherlock Holmes,Dawn Proctor,Aventura,2.5
+785,Don Quijote de la Mancha,James Burns,Realismo Mágico,4.7
+786,La sombra del viento,Joseph Garrison,Misterio,3.2
+787,Orgullo y prejuicio,Dr. Belinda Brock,Thriller,2.3
+788,Cien años de soledad,Matthew Johnson,Thriller,1.1
+789,El alquimista,Diane Donovan DVM,Misterio,2.3
+790,Anna Karenina,Randall Bryant,Romance,2.6
+791,El señor de los anillos,Joshua Clark,Dystopía,4.1
+792,Ensayo sobre la ceguera,Jordan Lewis,Experimental,4.0
+793,Los pilares de la tierra,Roy Kramer,Fantasía,1.6
+794,Madame Bovary,Sean Kirk,Experimental,1.2
+795,La chica del tren,Grace Wilson,Romance,2.5
+796,El alquimista,Patricia Farmer,Experimental,4.8
+797,La chica del tren,Alexandria Washington,Aventura,2.6
+798,Las aventuras de Sherlock Holmes,Jamie Curtis,Histórico,3.1
+799,El señor de los anillos,David Mcclain,Fábula,2.0
+800,1984,Heather Mcintosh,Aventura,1.3
+801,Drácula,William Mitchell,Histórico,1.2
+802,Orgullo y prejuicio,Jackie Murphy,Histórico,4.5
+803,Frankenstein,Luis Sims,Clásico,4.4
+804,El código Da Vinci,Richard Robertson,Aventura,3.4
+805,Los pilares de la tierra,Ms. Casey Hayes,Romance,2.1
+806,Rayuela,Lisa George,Clásico,2.4
+807,Frankenstein,Jennifer Edwards,Fantasía,3.5
+808,Rayuela,Desiree Cook,Dystopía,2.8
+809,La insoportable levedad del ser,Eric Mullins,Dystopía,1.1
+810,Juego de tronos,Brandon Murphy,Realismo Mágico,3.6
+811,Los pilares de la tierra,Scott Warren,Fantasía,4.6
+812,1984,Christopher Moore,Drama,4.1
+813,El amor en los tiempos del cólera,Timothy Shah,Histórico,2.6
+814,Harry Potter y la piedra filosofal,John Gutierrez,Terror,2.3
+815,El nombre del viento,Matthew Hunt,Thriller,4.9
+816,American Gods,Ronald Holmes,Fantasía,1.6
+817,Drácula,Michele Anderson,Realismo Mágico,4.1
+818,Ulises,Rebecca Crawford,Terror,3.3
+819,La ladrona de libros,Ashley Lane,Thriller,1.0
+820,1984,Lori George DVM,Thriller,2.4
+821,Cometas en el cielo,Tara Sanchez,Biografía,2.1
+822,Las crónicas de Narnia,Nichole Barnes,Experimental,4.5
+823,El amor en los tiempos del cólera,Frederick Reynolds,Terror,4.0
+824,It,Rebecca Barnes,Experimental,3.1
+825,It,Christina Davis,Experimental,3.0
+826,La ladrona de libros,Kevin King,Clásico,4.2
+827,Madame Bovary,Matthew Stevens,Fantasía,3.9
+828,Las aventuras de Sherlock Holmes,Stephen Martinez,Misterio,3.4
+829,Cien años de soledad,Dr. Sabrina Fischer MD,Histórico,4.9
+830,Frankenstein,Anthony Garner,Fantasía,4.1
+831,Drácula,Jodi Martinez,Romance,3.2
+832,Cien años de soledad,Michael Garrison,Ciencia Ficción,4.6
+833,La carretera,Dr. William Guzman MD,Thriller,3.8
+834,El código Da Vinci,Timothy Baker,Misterio,1.9
+835,El alquimista,Joshua Hall,Experimental,4.2
+836,Ensayo sobre la ceguera,Elizabeth Robinson,Terror,1.3
+837,La insoportable levedad del ser,Teresa Johnson,Fábula,3.0
+838,1984,Kimberly Cooper,Clásico,3.5
+839,El código Da Vinci,David Thompson,Fábula,1.5
+840,El amor en los tiempos del cólera,Garrett Smith,Misterio,1.7
+841,Ensayo sobre la ceguera,Mr. Benjamin Cantrell,Drama,3.0
+842,Los juegos del hambre,Willie Ortiz,Misterio,1.2
+843,La carretera,Rebecca Myers,Dystopía,4.8
+844,El Principito,Jeremy Johnson,Biografía,2.9
+845,Ulises,Tracy Hill,Thriller,1.3
+846,El señor de los anillos,Jacob Duncan,Aventura,1.9
+847,El psicoanalista,Madison Edwards,Romance,3.4
+848,Las aventuras de Sherlock Holmes,Martha Brown,Ciencia Ficción,2.8
+849,Ensayo sobre la ceguera,Jade Clark,Clásico,5.0
+850,Drácula,Brooke Simon,Realismo Mágico,3.7
+851,Cometas en el cielo,Robert Chan,Drama,2.9
+852,El nombre del viento,Spencer Dennis,Histórico,3.1
+853,Orgullo y prejuicio,Jacob Dyer,Dystopía,2.4
+854,Fahrenheit 451,Lisa Ali,Fábula,2.7
+855,Pedro Páramo,Andrea Carroll,Ciencia Ficción,2.8
+856,A sangre fría,Cody Williams,Thriller,3.5
+857,Un mundo feliz,Holly Michael,Fábula,3.8
+858,El código Da Vinci,Jennifer Dunlap,Terror,4.6
+859,Matar a un ruiseñor,Michael Rios,Histórico,1.2
+860,Orgullo y prejuicio,Ashley Richardson,Ciencia Ficción,4.5
+861,El alquimista,Jonathon Campbell,Dystopía,1.3
+862,Pedro Páramo,Jennifer Wood,Terror,4.3
+863,La ladrona de libros,Samuel Bradley,Drama,3.4
+864,Crimen y castigo,Peter Goodman,Romance,1.3
+865,A sangre fría,Michael Bryant,Realismo Mágico,1.5
+866,It,Stephanie Vang,Romance,3.8
+867,Orgullo y prejuicio,Allison Duncan,Romance,1.2
+868,Cometas en el cielo,Heather Miller,Misterio,1.7
+869,American Gods,Tiffany Sutton,Histórico,4.0
+870,Las aventuras de Sherlock Holmes,Paul Wade,Aventura,3.7
+871,El niño con el pijama de rayas,Erica Smith,Misterio,4.5
+872,Ulises,Aaron Johnston,Terror,1.7
+873,El nombre del viento,Jill Mitchell,Experimental,1.5
+874,Fahrenheit 451,Frank Giles,Biografía,2.6
+875,Las aventuras de Sherlock Holmes,Erin Mcintyre,Misterio,1.3
+876,El amor en los tiempos del cólera,Stacey Pace,Biografía,4.1
+877,Un mundo feliz,Robert Pacheco,Romance,1.1
+878,La ladrona de libros,Nicholas Williams,Fantasía,4.7
+879,Juego de tronos,Kelsey Liu,Fábula,1.5
+880,La chica del tren,Melanie Rogers,Aventura,1.2
+881,Ensayo sobre la ceguera,Matthew Gonzalez,Terror,2.9
+882,Un mundo feliz,Clayton Jordan,Fantasía,4.8
+883,La chica del tren,Dawn Travis,Fantasía,2.5
+884,American Gods,Steven Church,Biografía,3.9
+885,Orgullo y prejuicio,Andrea White,Drama,5.0
+886,Un mundo feliz,Michael Miller,Biografía,3.3
+887,Las crónicas de Narnia,Hayden Jordan,Terror,3.0
+888,Harry Potter y la piedra filosofal,Wendy Quinn,Fábula,3.0
+889,Anna Karenina,Anna Miller,Experimental,4.8
+890,Las crónicas de Narnia,Robert Gibbs,Terror,5.0
+891,Orgullo y prejuicio,Billy Jackson,Histórico,1.2
+892,Matar a un ruiseñor,Dustin Ortega,Drama,1.8
+893,Matar a un ruiseñor,Douglas Tate,Fantasía,4.9
+894,Ulises,Ashley Poole,Terror,4.3
+895,Un mundo feliz,Brenda Campbell,Fantasía,4.1
+896,El señor de los anillos,Jason Berger,Realismo Mágico,2.4
+897,El amor en los tiempos del cólera,Perry Lyons,Fábula,4.6
+898,La carretera,Denise Krueger,Realismo Mágico,3.1
+899,Rayuela,James Taylor,Clásico,4.3
+900,El Principito,Scott Morris,Ciencia Ficción,2.9
+901,Fahrenheit 451,Jonathan Galloway,Fábula,1.2
+902,Cien años de soledad,Jeremy Mercado,Realismo Mágico,1.8
+903,El perfume,Adam Stanley,Terror,4.2
+904,La insoportable levedad del ser,Justin Galloway,Romance,2.3
+905,Las crónicas de Narnia,Tammy Johnson,Terror,1.5
+906,El señor de los anillos,Derek Baker,Experimental,2.6
+907,Un mundo feliz,Kenneth Chandler,Fábula,3.8
+908,El señor de los anillos,Emma Roach,Experimental,4.3
+909,Orgullo y prejuicio,Julia Miller,Fábula,4.2
+910,El nombre del viento,Nicole Acosta,Ciencia Ficción,3.6
+911,Los pilares de la tierra,Katie Parker,Romance,3.5
+912,Orgullo y prejuicio,Mr. John Marshall Jr.,Dystopía,1.8
+913,La insoportable levedad del ser,Daniel Jones Jr.,Fábula,1.8
+914,1984,Brian Brewer Jr.,Aventura,4.4
+915,Frankenstein,Carmen Garcia,Romance,4.9
+916,Ulises,Amber Casey,Aventura,1.9
+917,El alquimista,Brandi Cabrera,Aventura,2.3
+918,El perfume,Gregory Wilson,Fantasía,3.0
+919,El señor de los anillos,Bailey Baker,Fábula,4.3
+920,Orgullo y prejuicio,Jeremiah Kelly,Romance,1.5
+921,1984,Alison Simpson,Fantasía,2.5
+922,Orgullo y prejuicio,Nicholas Lopez,Dystopía,4.0
+923,La sombra del viento,Elizabeth Pena,Drama,1.2
+924,Harry Potter y la piedra filosofal,Kristen Miller,Aventura,2.0
+925,Las crónicas de Narnia,James Sanders,Misterio,2.1
+926,Frankenstein,Ian Hawkins,Experimental,2.3
+927,Frankenstein,Holly Edwards,Romance,1.6
+928,Frankenstein,Dylan Wilson,Thriller,1.4
+929,Los pilares de la tierra,Carolyn Gonzales,Realismo Mágico,4.9
+930,Un mundo feliz,Cynthia Jensen,Biografía,1.8
+931,It,Cynthia Jenkins,Fantasía,3.9
+932,Las crónicas de Narnia,Zachary Ward,Romance,4.4
+933,La ladrona de libros,Austin Parker,Ciencia Ficción,2.1
+934,La insoportable levedad del ser,Joshua Harrison,Fábula,1.2
+935,Ensayo sobre la ceguera,Laura Brooks,Dystopía,4.5
+936,Crimen y castigo,Sheri Alexander,Clásico,1.4
+937,A sangre fría,Jason James,Romance,4.0
+938,Cien años de soledad,Jonathan Nunez,Drama,1.5
+939,Orgullo y prejuicio,Stephanie Matthews,Thriller,3.0
+940,Orgullo y prejuicio,Dr. Ethan Donaldson,Aventura,2.3
+941,El nombre del viento,Robert Thompson,Drama,3.3
+942,El perfume,Jo White,Experimental,4.9
+943,Orgullo y prejuicio,Clifford Adams,Biografía,4.4
+944,Frankenstein,Jill Shaw,Realismo Mágico,4.7
+945,La ladrona de libros,Robert Hill,Thriller,1.4
+946,El amor en los tiempos del cólera,Connie Estrada,Fantasía,3.7
+947,Madame Bovary,Anthony Newman,Fábula,3.1
+948,Rayuela,Joshua Wright,Clásico,3.9
+949,El alquimista,Michael Yates,Aventura,2.0
+950,American Gods,Michael Harrington,Terror,3.2
+951,Las aventuras de Sherlock Holmes,Michelle Miller,Romance,4.6
+952,Cometas en el cielo,Robert Kelly,Terror,4.5
+953,Cien años de soledad,James Harris,Fantasía,3.2
+954,Anna Karenina,Katelyn Hensley,Realismo Mágico,2.7
+955,Los pilares de la tierra,Rebecca Prince,Terror,1.6
+956,Madame Bovary,Vanessa Walton,Terror,4.4
+957,Pedro Páramo,Tamara Wall,Experimental,2.7
+958,Juego de tronos,Katherine Clements,Misterio,3.0
+959,El niño con el pijama de rayas,Ashley Vasquez,Aventura,2.6
+960,El amor en los tiempos del cólera,Lori Alvarez,Experimental,4.2
+961,Rayuela,Tamara Rivera,Ciencia Ficción,1.4
+962,A sangre fría,Joshua Poole,Misterio,4.1
+963,La insoportable levedad del ser,Catherine Wong,Experimental,3.4
+964,Juego de tronos,Deborah Peterson,Experimental,4.2
+965,El señor de los anillos,Jacqueline Smith,Realismo Mágico,4.5
+966,1984,Mr. Juan Thomas,Drama,3.7
+967,El Principito,Jeremy Hawkins,Experimental,2.6
+968,A sangre fría,Michael Lee,Misterio,4.6
+969,1984,Angela Anderson,Biografía,1.9
+970,Orgullo y prejuicio,Jessica Kramer,Clásico,3.4
+971,Rayuela,Ms. Sarah Gallagher MD,Fantasía,4.7
+972,Harry Potter y la piedra filosofal,Patricia Hunter,Thriller,3.4
+973,Cien años de soledad,Becky Olson,Realismo Mágico,3.3
+974,La sombra del viento,April Schmitt,Fábula,1.8
+975,Frankenstein,Alexandra Lee,Aventura,2.8
+976,El código Da Vinci,Ryan Potter,Fantasía,3.2
+977,Cometas en el cielo,Brenda Campbell,Histórico,1.2
+978,Cometas en el cielo,Dawn Kemp,Histórico,3.4
+979,La carretera,Christopher Smith,Romance,1.5
+980,Harry Potter y la piedra filosofal,Michele Campbell,Fantasía,3.4
+981,Frankenstein,Tracy Robles,Clásico,4.3
+982,La chica del tren,Denise Bennett,Romance,3.7
+983,La insoportable levedad del ser,Regina Morrison,Ciencia Ficción,2.5
+984,La insoportable levedad del ser,Mrs. Susan Burns MD,Clásico,1.4
+985,El señor de los anillos,Steven Kane,Ciencia Ficción,2.0
+986,Drácula,Stacy Martin,Romance,4.9
+987,El código Da Vinci,Diana Webb,Fantasía,4.1
+988,Cometas en el cielo,Margaret Jones,Thriller,2.0
+989,El perfume,Mr. Eric Erickson,Dystopía,4.0
+990,Anna Karenina,Angelica West,Histórico,2.2
+991,El señor de los anillos,Shawn Terrell,Realismo Mágico,2.5
+992,American Gods,Tiffany Spencer,Thriller,3.8
+993,1984,Dustin Wade,Ciencia Ficción,3.0
+994,1984,Crystal Martinez,Drama,2.6
+995,Cien años de soledad,Patrick Bolton,Terror,2.0
+996,Don Quijote de la Mancha,Catherine Mcgrath,Aventura,1.2
+997,Harry Potter y la piedra filosofal,Elizabeth Moyer,Realismo Mágico,3.2
+998,American Gods,William Leonard,Dystopía,1.4
+999,Ulises,Sara Baker,Biografía,4.4
+1000,Pedro Páramo,Michael Wallace,Romance,2.5
