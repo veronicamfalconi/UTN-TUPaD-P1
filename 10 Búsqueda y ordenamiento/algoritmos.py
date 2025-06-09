@@ -19,7 +19,7 @@ def cargar_libros(archivo):
 
 def bubble_sort(lista, clave):
     """
-    Ordena una lista de diccionarios en orden ascendente según el valor asociado a una clave específica.
+    Ordena una lista de diccionarios en orden descendente según el valor asociado a una clave específica.
     Implementa el algoritmo de ordenamiento Bubble Sort (ordenamiento burbuja).
 
     Parámetros:
@@ -181,6 +181,6 @@ def busqueda_binaria(lista, valor):
         elif puntuacion_medio < valor:
             derecha = medio - 1  # Valor está a la izquierda (porque es más alto)
         else:
-            izquierda = medio - 1  # Valor está a la derecha (porque es más bajo)
+            izquierda = medio + 1  # Valor está a la derecha (porque es más bajo)
 
     return resultados  # Devuelve la lista con los libros encontrados (puede estar vacía)
