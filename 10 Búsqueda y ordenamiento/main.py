@@ -9,7 +9,7 @@ ruta_archivo = os.path.join(directorio_actual, "libros-famosos.csv")
 libros = cargar_libros(ruta_archivo)
 
 # Elegir una puntuación objetivo
-objetivo = 5.0
+objetivo = 2.3
 
 # Medir ordenamiento
 # Bubble Sort
@@ -57,14 +57,29 @@ for libro in ordenados_quick[:15]:
 start_busqueda = timeit.default_timer()
 resultados = busqueda_lineal(ordenados_bubble, objetivo)
 end_busqueda = timeit.default_timer()
-print(f"Búsqueda Lineal: Resultados = {len(resultados)}, Tiempo = {end_busqueda - start_busqueda:.6f} segundos")
+print(f"Búsqueda Lineal (ordenada con bubble): Resultados = {len(resultados)}, Tiempo = {end_busqueda - start_busqueda:.6f} segundos")
+
+# Búsqueda lineal sobre la lista ordenada con quick sort
+start_busqueda = timeit.default_timer()
+resultados = busqueda_lineal(ordenados_quick, objetivo)
+end_busqueda = timeit.default_timer()
+print(f"Búsqueda Lineal: (ordenada con quick) = {len(resultados)}, Tiempo = {end_busqueda - start_busqueda:.6f} segundos")
 
 # Búsqueda binaria sobre lista ordenada (bubble sort)
 start_binaria = timeit.default_timer()
 resultado_binaria = busqueda_binaria(ordenados_bubble, objetivo)
 end_binaria = timeit.default_timer()
 if resultado_binaria:
-    print(f"Búsqueda Binaria: Resultados = {len(resultado_binaria)}, Tiempo = {end_binaria - start_binaria:.6f} segundos")
+    print(f"Búsqueda Binaria (ordenada con bubble): Resultados = {len(resultado_binaria)}, Tiempo = {end_binaria - start_binaria:.6f} segundos")
+else:
+    print(f"Búsqueda Binaria: No encontrado, Tiempo = {end_binaria - start_binaria:.6f} segundos")
+
+# Búsqueda binaria sobre lista ordenada con quick sort
+start_binaria = timeit.default_timer()
+resultado_binaria = busqueda_binaria(ordenados_quick, objetivo)
+end_binaria = timeit.default_timer()
+if resultado_binaria:
+    print(f"Búsqueda Binaria (ordenada con quick): Resultados = {len(resultado_binaria)}, Tiempo = {end_binaria - start_binaria:.6f} segundos")
 else:
     print(f"Búsqueda Binaria: No encontrado, Tiempo = {end_binaria - start_binaria:.6f} segundos")
 
