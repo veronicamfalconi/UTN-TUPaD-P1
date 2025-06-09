@@ -1,15 +1,10 @@
 import csv
-import time
 
 def cargar_libros(archivo):
     """
     Realiza la carga un archivo CSV con datos de libros.
-
-    Parámetros:
-    archivo (str): Ruta del archivo CSV.
-
-    Retorna:
-    list: Lista de diccionarios con claves: 'titulo', 'autor' y 'puntuacion'.
+    Parámetros: archivo (str): Ruta del archivo CSV.
+    Retorna: list: Lista de diccionarios con claves: 'titulo', 'autor' y 'puntuacion'.
     """
     # Abrir el archivo CSV en modo lectura con codificación UTF-8
     libros = []
@@ -189,24 +184,3 @@ def busqueda_binaria(lista, valor):
             izquierda = medio - 1  # Valor está a la derecha (porque es más bajo)
 
     return resultados  # Devuelve la lista con los libros encontrados (puede estar vacía)
-
-def medir_tiempo(funcion, *args, descripcion=""):
-    """
-    Ejecuta una función con sus argumentos, mide el tiempo que tarda y muestra el resultado.
-
-    Parámetros:
-    - funcion: la función a ejecutar.
-    - *args: los argumentos (cantidad variable) que se pasan a esa función.
-    - descripcion: una descripción opcional para identificar la función medida.
-
-    Retorna:
-    - resultado: lo que devuelve la función.
-    - tiempo: tiempo de ejecución en segundos.
-    """
-    inicio = time.time()
-    resultado = funcion(*args)
-    fin = time.time()
-    tiempo = fin - inicio
-    print(f"{descripcion}: Resultado = {resultado}, Tiempo = {tiempo:.6f} segundos")
-    return resultado, tiempo
-

@@ -1,7 +1,6 @@
 import timeit
 from algoritmos import cargar_libros, bubble_sort, selection_sort_desc, insertion_sort_desc, busqueda_lineal, busqueda_binaria, quicksort, medir_tiempo
 import os
-print("Directorio actual:", os.getcwd())
 
 # Cargar libros desde el archivo
 directorio_actual = os.path.dirname(__file__)
