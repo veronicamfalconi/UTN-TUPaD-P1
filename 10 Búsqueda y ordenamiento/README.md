@@ -16,3 +16,6 @@ Este proyecto implementa y compara diferentes algoritmos clásicos de búsqueda 
 - Comprender la implementación y funcionamiento de cada algoritmo.
 - Comparar su eficiencia en tiempo de ejecución.
 - Aplicar algoritmos en listas de diccionarios usando claves específicas.
+
+## Video
+https://drive.google.com/file/d/1VyzO7jcTolEzL7u-BJY8-kuKqjcMrcMN/view?usp=sharing
